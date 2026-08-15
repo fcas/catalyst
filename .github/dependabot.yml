@@ -8,3 +8,4 @@ updates:
       separator: "-"
     schedule:
       interval: "daily"
+
